@@ -1,0 +1,28 @@
+.titulo{
+    text-align: center;
+    background-color: bisque;
+    color: black;
+    font-weight: 800;
+}
+
+.arroz{
+    font-size: 25px;
+    color: black;
+}
+
+.imagen{
+    width: 400px;
+    height: auto;
+}
+
+.contenedor{
+    background-color: teal;
+    color: whitesmoke;
+    padding: 10px;
+}
+
+.img-contenedor{
+    text-align: center;
+    background-color: yellow;
+    padding: 10px;
+}

@@ -1,8 +1,16 @@
+body{
+    margin: 0;
+    background-color: darkslategray;
+
+}
+
 .titulo{
     text-align: center;
     background-color: bisque;
     color: black;
     font-weight: 800;
+    padding: 15px;
+    border-radius: 20px;
 }
 
 .enlace{
@@ -15,16 +23,39 @@
 .imagen{
     width: 400px;
     height: auto;
+    border-radius: 10px;
 }
 
 .contenedor{
-    background-color: teal;
+    background-color: darkslategray;
     color: whitesmoke;
     padding: 10px;
 }
 
 .img-contenedor{
     text-align: center;
-    background-color: yellow;
+    background-color: grey;
     padding: 10px;
+}
+
+.listaComida{
+    background-color: burlywood;
+    padding-top: 10px;
+    border-radius: 20px;
+    padding-bottom: 10px;
+}
+
+.a-Home{
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.ingredientes, .pasos{
+    display: inline-block;
+    margin: 0;
+}
+
+.ingredientes{
+    width: 300px;
 }

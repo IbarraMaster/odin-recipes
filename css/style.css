@@ -5,9 +5,11 @@
     font-weight: 800;
 }
 
-.arroz{
+.enlace{
     font-size: 25px;
     color: black;
+    display: block;
+    margin-bottom: 10px;
 }
 
 .imagen{
